@@ -1,3 +1,6 @@
+## I am not updating this on github, doing it locally
+
+
 # Brainstorm Rerolled
 This is a fork of both [Brainstorm](https://github.com/OceanRamen/Brainstorm) created by [OceanRamen](https://github.com/OceanRamen) as well as [Immolate](https://github.com/SpectralPack/Immolate) please give credit to them as I have simply modified the hard work they did
 
